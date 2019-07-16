@@ -1,0 +1,23 @@
+{
+  "name": "giphenator",
+  "version": "1.0.0",
+  "description": "Simple Giph Web App",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pearlybrah/giphenator.git"
+  },
+  "author": "ZHF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pearlybrah/giphenator/issues"
+  },
+  "homepage": "https://github.com/Pearlybrah/giphenator#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "node-sass": "^4.12.0"
+  }
+}
