@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Pearlybrah/giphenator#readme",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   }
 }
